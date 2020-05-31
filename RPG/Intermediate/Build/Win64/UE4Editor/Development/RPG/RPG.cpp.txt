@@ -1,0 +1,2 @@
+E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\Definitions.RPG.h
+E:\Unreal\Unreal\RPG\Source\RPG\RPG.h
