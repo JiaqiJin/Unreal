@@ -48,4 +48,14 @@
       <Filter>Source\RPG</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\RPG\Collider.h">
+      <Filter>Source\RPG</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\RPG\Collider.cpp">
+      <Filter>Source\RPG</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

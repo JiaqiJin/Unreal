@@ -1,12 +1,17 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal\Unreal).
+  Parsing headers for RPGEditor
+    Running UnrealHeaderTool "E:\Unreal\Unreal\RPG\RPG.uproject" "E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\RPGEditor\Development\RPGEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for RPGEditor in 4,9959794 seconds
   Building RPGEditor...
   Using Visual Studio 2019 14.25.28612 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 12 processes...
-    [1/4] Critter.cpp
-    [2/4] UE4Editor-RPG-0004.lib
-       Creating library E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG-0004.lib and object E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG-0004.exp
-    [3/4] UE4Editor-RPG-0004.dll
-       Creating library E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG-0004.suppressed.lib and object E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG-0004.suppressed.exp
-    [4/4] RPGEditor.target
-  Total time in Parallel executor: 1,21 seconds
-  Total execution time: 1,91 seconds
+  Building 6 actions with 12 processes...
+    [1/6] RPG.init.gen.cpp
+    [2/6] Critter.cpp
+    [3/6] Critter.gen.cpp
+    [4/6] UE4Editor-RPG-0008.lib
+       Creating library E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG-0008.lib and object E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG-0008.exp
+    [5/6] UE4Editor-RPG-0008.dll
+       Creating library E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG-0008.suppressed.lib and object E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG-0008.suppressed.exp
+    [6/6] RPGEditor.target
+  Total time in Parallel executor: 1,30 seconds
+  Total execution time: 7,03 seconds
