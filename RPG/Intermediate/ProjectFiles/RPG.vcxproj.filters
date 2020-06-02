@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\RPG.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{EBB58807-4D3A-4FD6-A198-E95A3B8C9EBC}</UniqueIdentifier>
+      <UniqueIdentifier>{10B0E960-ADA3-49F8-BAC2-E1B46E03FBB8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\RPG.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{9B474BD7-663F-411A-A822-9C1158F3F3DC}</UniqueIdentifier>
+      <UniqueIdentifier>{CCC2B964-E305-4D68-B0D6-71CA8FEFDA19}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,13 +23,28 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\RPG">
-      <UniqueIdentifier>{125429CF-5CDE-46B0-9AA4-FDEEEC6543F2}</UniqueIdentifier>
+      <UniqueIdentifier>{9A65012F-58AC-4CDC-97EE-BE5D2580C118}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\RPG\ColliderMovementComponent.cpp">
+      <Filter>Source\RPG</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RPG\ColliderMovementComponent.h">
+      <Filter>Source\RPG</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\RPG\Critter.cpp">
       <Filter>Source\RPG</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\RPG\Critter.h">
+      <Filter>Source\RPG</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RPG\MyPawn.cpp">
+      <Filter>Source\RPG</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RPG\MyPawn.h">
       <Filter>Source\RPG</Filter>
     </ClInclude>
     <None Include="..\..\Source\RPG\RPG.Build.cs">
@@ -47,15 +62,5 @@
     <ClInclude Include="..\..\Source\RPG\RPGGameModeBase.h">
       <Filter>Source\RPG</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\RPG\Collider.h">
-      <Filter>Source\RPG</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\RPG\Collider.cpp">
-      <Filter>Source\RPG</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

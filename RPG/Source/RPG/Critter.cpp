@@ -3,6 +3,7 @@
 
 #include "Critter.h"
 #include "Components/StaticMeshComponent.h"
+#include "Components/SkeletalMeshComponent.h"
 #include "Camera/CameraComponent.h"
 #include "Components/InputComponent.h"
 
@@ -13,14 +14,14 @@ ACritter::ACritter()
 	PrimaryActorTick.bCanEverTick = true;
 
 	RootComponent = CreateDefaultSubobject<USceneComponent>(TEXT("RootComponent"));
-	MeshComponent = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("MeshComponent"));
+	MeshComponent = CreateDefaultSubobject<USkeletalMeshComponent>(TEXT("MeshComponent"));
 	MeshComponent->SetupAttachment(GetRootComponent());
 
 	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("Camera"));
 	Camera->SetRelativeLocation(FVector(-300.0f, 0.0f, 300.0f));
 	Camera->SetRelativeRotation(FRotator(-45.0f,0.0f,0.0f));
 	//PlayerController, if any, should automatically possess the pawn when the level starts or when the pawn is spawned.
-	AutoPossessPlayer = EAutoReceiveInput::Player0;
+	//AutoPossessPlayer = EAutoReceiveInput::Player0;
 
 	CurrentVelocity = FVector(0.0f);
 	maxSpeed = 100.0f;
