@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -72,7 +72,7 @@ void EmptyLinkFunctionForGeneratedCodeColliderMovementComponent() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UColliderMovementComponent, 3642670461);
+	IMPLEMENT_CLASS(UColliderMovementComponent, 753582184);
 	template<> RPG_API UClass* StaticClass<UColliderMovementComponent>()
 	{
 		return UColliderMovementComponent::StaticClass();

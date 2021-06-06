@@ -1,5 +1,5 @@
 E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\Definitions.RPG.h
 E:\Unreal\Unreal\RPG\Source\RPG\Critter.h
 E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Inc\RPG\Critter.generated.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+E:\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+E:\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h

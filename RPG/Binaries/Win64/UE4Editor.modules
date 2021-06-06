@@ -1,7 +1,7 @@
 {
-	"BuildId": "10570792",
+	"BuildId": "7b6a94aa-4537-4a40-ade4-6eddb6c87b97",
 	"Modules": 
 	{
-		"RPG": "UE4Editor-RPG-0016.dll"
+		"RPG": "UE4Editor-RPG.dll"
 	}
 }

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\RPG.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{10B0E960-ADA3-49F8-BAC2-E1B46E03FBB8}</UniqueIdentifier>
+      <UniqueIdentifier>{9FC5C76E-DCC4-435B-ABAD-EDE0C06D2DFC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\RPG.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{CCC2B964-E305-4D68-B0D6-71CA8FEFDA19}</UniqueIdentifier>
+      <UniqueIdentifier>{02D44022-050B-41FC-B2E0-17A80D85EFD9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\RPG">
-      <UniqueIdentifier>{9A65012F-58AC-4CDC-97EE-BE5D2580C118}</UniqueIdentifier>
+      <UniqueIdentifier>{8375B1D3-6FBA-4BB8-83C8-7DA75F3E2A80}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\RPG\ColliderMovementComponent.cpp">
       <Filter>Source\RPG</Filter>

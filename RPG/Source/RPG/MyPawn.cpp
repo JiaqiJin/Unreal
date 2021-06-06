@@ -9,6 +9,7 @@
 #include "Components/InputComponent.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "ColliderMovementComponent.h"
+#include "Components/SceneComponent.h"
 // Sets default values
 AMyPawn::AMyPawn()
 {
@@ -35,7 +36,7 @@ AMyPawn::AMyPawn()
 
 	SpringArm = CreateDefaultSubobject<USpringArmComponent>(TEXT("SprimArm"));
 	SpringArm->SetupAttachment(GetRootComponent());
-	SpringArm->RelativeRotation = FRotator(-45.0f, 0.0f, 0.0f);
+	SpringArm->SetRelativeRotation(FRotator(-45.0f, 0.0f, 0.0f));
 	SpringArm->TargetArmLength = 400.0f; //camera distance away
 	SpringArm->bEnableCameraLag = true; //smooth trailing behin our pawn
 	SpringArm->CameraLagSpeed = 3.0f;

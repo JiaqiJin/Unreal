@@ -1,12 +1,14 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal\Unreal).
-  Building RPGEditor...
-  Using Visual Studio 2019 14.25.28612 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\UnrealEngine4\UE_4.26\UnrealEngine).
+  Using 'git status' to determine working set for adaptive non-unity build (E:\Unreal\Unreal).
+  Invalidating makefile for RPGEditor (MyPawn.cpp modified)
+  Building RPGEditor and ShaderCompileWorker...
+  Using Visual Studio 2019 14.28.29913 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 12 processes...
-    [1/4] ColliderMovementComponent.cpp
-    [2/4] UE4Editor-RPG-0016.lib
-       Creating library E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG-0016.lib and object E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG-0016.exp
-    [3/4] UE4Editor-RPG-0016.dll
-       Creating library E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG-0016.suppressed.lib and object E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG-0016.suppressed.exp
+    [1/4] MyPawn.cpp
+    [2/4] UE4Editor-RPG.lib
+       Creating library E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG.lib and object E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG.exp
+    [3/4] UE4Editor-RPG.dll
+       Creating library E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG.suppressed.lib and object E:\Unreal\Unreal\RPG\Intermediate\Build\Win64\UE4Editor\Development\RPG\UE4Editor-RPG.suppressed.exp
     [4/4] RPGEditor.target
-  Total time in Parallel executor: 1,18 seconds
-  Total execution time: 1,92 seconds
+  Total time in Parallel executor: 6,91 seconds
+  Total execution time: 12,15 seconds

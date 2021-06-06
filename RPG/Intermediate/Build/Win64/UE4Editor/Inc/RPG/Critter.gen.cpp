@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -17,8 +17,8 @@ void EmptyLinkFunctionForGeneratedCodeCritter() {}
 	RPG_API UClass* Z_Construct_UClass_ACritter();
 	ENGINE_API UClass* Z_Construct_UClass_APawn();
 	UPackage* Z_Construct_UPackage__Script_RPG();
-	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USkeletalMeshComponent_NoRegister();
+	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 // End Cross Module References
 	void ACritter::StaticRegisterNativesACritter()
 	{
@@ -34,17 +34,17 @@ void EmptyLinkFunctionForGeneratedCodeCritter() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
 #if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_maxSpeed_MetaData[];
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_MeshComponent_MetaData[];
 #endif
-		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_maxSpeed;
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_MeshComponent;
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Camera_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_Camera;
 #if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_MeshComponent_MetaData[];
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_maxSpeed_MetaData[];
 #endif
-		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_MeshComponent;
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_maxSpeed;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -61,12 +61,13 @@ void EmptyLinkFunctionForGeneratedCodeCritter() {}
 	};
 #endif
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACritter_Statics::NewProp_maxSpeed_MetaData[] = {
-		{ "Category", "Pawn Movement" },
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACritter_Statics::NewProp_MeshComponent_MetaData[] = {
+		{ "Category", "Mesh" },
+		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Critter.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ACritter_Statics::NewProp_maxSpeed = { "maxSpeed", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACritter, maxSpeed), METADATA_PARAMS(Z_Construct_UClass_ACritter_Statics::NewProp_maxSpeed_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACritter_Statics::NewProp_maxSpeed_MetaData)) };
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ACritter_Statics::NewProp_MeshComponent = { "MeshComponent", nullptr, (EPropertyFlags)0x00100000000a000d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACritter, MeshComponent), Z_Construct_UClass_USkeletalMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ACritter_Statics::NewProp_MeshComponent_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACritter_Statics::NewProp_MeshComponent_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACritter_Statics::NewProp_Camera_MetaData[] = {
 		{ "Category", "Critter" },
@@ -76,17 +77,16 @@ void EmptyLinkFunctionForGeneratedCodeCritter() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ACritter_Statics::NewProp_Camera = { "Camera", nullptr, (EPropertyFlags)0x0010000000080009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACritter, Camera), Z_Construct_UClass_UCameraComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ACritter_Statics::NewProp_Camera_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACritter_Statics::NewProp_Camera_MetaData)) };
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACritter_Statics::NewProp_MeshComponent_MetaData[] = {
-		{ "Category", "Mesh" },
-		{ "EditInline", "true" },
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACritter_Statics::NewProp_maxSpeed_MetaData[] = {
+		{ "Category", "Pawn Movement" },
 		{ "ModuleRelativePath", "Critter.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ACritter_Statics::NewProp_MeshComponent = { "MeshComponent", nullptr, (EPropertyFlags)0x00100000000a000d, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACritter, MeshComponent), Z_Construct_UClass_USkeletalMeshComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ACritter_Statics::NewProp_MeshComponent_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACritter_Statics::NewProp_MeshComponent_MetaData)) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ACritter_Statics::NewProp_maxSpeed = { "maxSpeed", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACritter, maxSpeed), METADATA_PARAMS(Z_Construct_UClass_ACritter_Statics::NewProp_maxSpeed_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACritter_Statics::NewProp_maxSpeed_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ACritter_Statics::PropPointers[] = {
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACritter_Statics::NewProp_maxSpeed,
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACritter_Statics::NewProp_Camera,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACritter_Statics::NewProp_MeshComponent,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACritter_Statics::NewProp_Camera,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACritter_Statics::NewProp_maxSpeed,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ACritter_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ACritter>::IsAbstract,
@@ -115,7 +115,7 @@ void EmptyLinkFunctionForGeneratedCodeCritter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ACritter, 2582353085);
+	IMPLEMENT_CLASS(ACritter, 3300328034);
 	template<> RPG_API UClass* StaticClass<ACritter>()
 	{
 		return ACritter::StaticClass();

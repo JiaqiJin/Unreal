@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -74,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeRPGGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ARPGGameModeBase, 3385677413);
+	IMPLEMENT_CLASS(ARPGGameModeBase, 3007458658);
 	template<> RPG_API UClass* StaticClass<ARPGGameModeBase>()
 	{
 		return ARPGGameModeBase::StaticClass();
