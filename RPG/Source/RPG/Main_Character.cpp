@@ -6,7 +6,8 @@
 #include "GameFramework/SpringArmComponent.h"
 #include "GameFramework/PlayerController.h"
 #include "Engine/World.h"
-
+#include "Components/CapsuleComponent.h"
+#include "GameFramework/CharacterMovementComponent.h"
 // Sets default values
 AMain_Character::AMain_Character()
 {
@@ -24,6 +25,17 @@ AMain_Character::AMain_Character()
 
 	BaseTurnRate = 65.f;
 	BaseLookUpRate = 65.f;
+
+	// Dont rotate when the controller rotate
+	bUseControllerRotationYaw = false;
+	bUseControllerRotationPitch = false;
+	bUseControllerRotationRoll = false;
+
+	// Turn direction
+	GetCharacterMovement()->bOrientRotationToMovement = true;
+	GetCharacterMovement()->RotationRate = FRotator(0.0f, 545.f, 0.0f);
+	GetCharacterMovement()->JumpZVelocity = 650.f;
+	GetCharacterMovement()->AirControl = 0.2f;
 }
 
 // Called when the game starts or when spawned
