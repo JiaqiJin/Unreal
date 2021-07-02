@@ -10,16 +10,16 @@
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\DatasmithMax2021.Build.cs" />
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\DatasmithMaxExporter.def" />
     <Filter Include="Extras">
-      <UniqueIdentifier>{372A993C-E598-4970-9AEE-E8338C19CCC4}</UniqueIdentifier>
+      <UniqueIdentifier>{6D89EF51-EEC9-4215-916C-10036E472185}</UniqueIdentifier>
     </Filter>
     <Filter Include="Extras\3dsMaxScripts">
-      <UniqueIdentifier>{BCCA5232-B089-4FC8-BE5D-1C35349EFDE7}</UniqueIdentifier>
+      <UniqueIdentifier>{5F14A330-6624-4E9B-865F-A43B4F353B17}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\Extras\3dsMaxScripts\UnrealStudio_Datasmith_Attributes_Holder_Modifier.ms">
       <Filter>Extras\3dsMaxScripts</Filter>
     </None>
     <Filter Include="Installer">
-      <UniqueIdentifier>{F360E151-0F40-413D-A1AF-51BD769CEAAF}</UniqueIdentifier>
+      <UniqueIdentifier>{1316212F-E0DC-4B12-910B-7E55516C3C53}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\Installer\CustomActions.wxs">
       <Filter>Installer</Filter>
@@ -52,13 +52,13 @@
       <Filter>Installer</Filter>
     </None>
     <Filter Include="Installer\Localization">
-      <UniqueIdentifier>{49F93515-A17E-4F5A-AE5E-0C9EB58BC0FF}</UniqueIdentifier>
+      <UniqueIdentifier>{8891EA93-EFA4-4926-B705-685B8F11F745}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\Installer\Localization\en-us.wxl">
       <Filter>Installer\Localization</Filter>
     </None>
     <Filter Include="Installer\Resources">
-      <UniqueIdentifier>{0D2B6928-53C3-41F7-914B-A7CEB4A37094}</UniqueIdentifier>
+      <UniqueIdentifier>{D61D7C45-63AC-4AA0-952C-B0DF3A29C0B1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\Installer\Resources\Banner.bmp">
       <Filter>Installer\Resources</Filter>
@@ -85,7 +85,7 @@
       <Filter>Installer\Resources</Filter>
     </None>
     <Filter Include="Installer\Resources\General">
-      <UniqueIdentifier>{59D22D3C-6F09-4426-B0A2-A7A16DCDF04F}</UniqueIdentifier>
+      <UniqueIdentifier>{AFB88122-AB17-40EA-ABE7-AAFBF4DB4AAD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\Installer\Resources\General\banner.bmp">
       <Filter>Installer\Resources\General</Filter>
@@ -94,13 +94,13 @@
       <Filter>Installer\Resources\General</Filter>
     </None>
     <Filter Include="Installer\Resources\Images">
-      <UniqueIdentifier>{D5DB20A6-D8CF-446A-8D8F-5E6BED2F6551}</UniqueIdentifier>
+      <UniqueIdentifier>{FA966A39-919B-4843-A998-989F31A53483}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\Installer\Resources\Images\Epic_Games_logo.bmp">
       <Filter>Installer\Resources\Images</Filter>
     </None>
     <Filter Include="Installer\Resources\Images\Background">
-      <UniqueIdentifier>{3CB1F9D8-AA51-4D4A-9303-C6A33522E8E8}</UniqueIdentifier>
+      <UniqueIdentifier>{9D10621B-79A7-4FD4-A80F-607253E55260}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\Installer\Resources\Images\Background\28190.bmp">
       <Filter>Installer\Resources\Images\Background</Filter>
@@ -118,7 +118,7 @@
       <Filter>Installer\Resources\Images\Background</Filter>
     </None>
     <Filter Include="Installer\Resources\Images\General">
-      <UniqueIdentifier>{7FA1CC42-3E2B-4BF7-8AEA-488AB6278466}</UniqueIdentifier>
+      <UniqueIdentifier>{7310E994-CED4-46A0-AC4F-18E563CD3713}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\Installer\Resources\Images\General\banner.bmp">
       <Filter>Installer\Resources\Images\General</Filter>
@@ -127,7 +127,7 @@
       <Filter>Installer\Resources\Images\General</Filter>
     </None>
     <Filter Include="Private">
-      <UniqueIdentifier>{DB38AE94-3560-4950-8929-2E31F5B41051}</UniqueIdentifier>
+      <UniqueIdentifier>{B81934A1-A537-432B-A5D8-41AAAA14C61D}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\Private\DatasmithMaxArnold.cpp">
       <Filter>Private</Filter>
@@ -190,7 +190,7 @@
       <Filter>Private</Filter>
     </ClInclude>
     <Filter Include="Private\MaxMaterialsToUEPbr">
-      <UniqueIdentifier>{7EA3B78E-7999-49AC-8162-513DD66DE244}</UniqueIdentifier>
+      <UniqueIdentifier>{E0A2168F-41DA-40A8-841C-BEC878854AED}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\Private\MaxMaterialsToUEPbr\DatasmithMaxCoronaMaterialsToUEPbr.cpp">
       <Filter>Private\MaxMaterialsToUEPbr</Filter>
@@ -235,7 +235,7 @@
       <Filter>Private\MaxMaterialsToUEPbr</Filter>
     </ClInclude>
     <Filter Include="Public">
-      <UniqueIdentifier>{460683FE-EEA7-4DF8-A043-498FBF09C6DD}</UniqueIdentifier>
+      <UniqueIdentifier>{925FBF1D-F8D8-41AE-97F3-E98841664958}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\Public\DatasmithMaxCameraExporter.h">
       <Filter>Public</Filter>
@@ -271,10 +271,10 @@
       <Filter>Public</Filter>
     </ClInclude>
     <Filter Include="Resources">
-      <UniqueIdentifier>{03E0A0E5-703F-426C-AAE7-EED86C3C21C3}</UniqueIdentifier>
+      <UniqueIdentifier>{577845E4-F9AF-4949-BF25-1AF88E29C179}</UniqueIdentifier>
     </Filter>
     <Filter Include="Resources\Windows">
-      <UniqueIdentifier>{6647DC08-B886-4DC9-A15A-2A65F0B302B8}</UniqueIdentifier>
+      <UniqueIdentifier>{E30E2805-E34F-44D4-A44C-8D2F34E4D086}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\Resources\Windows\Resource.aps">
       <Filter>Resources\Windows</Filter>
@@ -289,10 +289,10 @@
       <Filter>Resources\Windows</Filter>
     </None>
     <Filter Include="ThirdParty">
-      <UniqueIdentifier>{04D8DF84-4879-47EF-9343-F033E6CD4645}</UniqueIdentifier>
+      <UniqueIdentifier>{13D05600-7AE8-48AA-B130-8EC70FEE2638}</UniqueIdentifier>
     </Filter>
     <Filter Include="ThirdParty\Itoo">
-      <UniqueIdentifier>{D075EDAB-B19B-4429-B2A8-011D34893985}</UniqueIdentifier>
+      <UniqueIdentifier>{BC904071-6E7A-43AA-A668-7D72BDE69256}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithMaxExporter\ThirdParty\Itoo\forestitreesinterface.h">
       <Filter>ThirdParty\Itoo</Filter>

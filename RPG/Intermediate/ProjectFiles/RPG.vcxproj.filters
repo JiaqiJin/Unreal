@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\RPG.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{AD4B83B6-CA6C-41E0-A1BB-93827C1D806B}</UniqueIdentifier>
+      <UniqueIdentifier>{509E536D-D412-4665-B0C4-22335278A6D1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\RPG.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{13A81DBC-F95A-4496-8ABE-62CDFA5E6597}</UniqueIdentifier>
+      <UniqueIdentifier>{84D4FD27-6A78-455A-823D-5E7CEFE18E92}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\RPG">
-      <UniqueIdentifier>{3F4B4395-5DED-4A94-8162-F4BF9929352E}</UniqueIdentifier>
+      <UniqueIdentifier>{4B93681B-A4E6-4882-8C08-750823E160F7}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\RPG\ColliderMovementComponent.cpp">
       <Filter>Source\RPG</Filter>
@@ -39,6 +39,12 @@
       <Filter>Source\RPG</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\RPG\Critter.h">
+      <Filter>Source\RPG</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RPG\FloorSwitch.cpp">
+      <Filter>Source\RPG</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RPG\FloorSwitch.h">
       <Filter>Source\RPG</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\RPG\MainAnimInstance.cpp">

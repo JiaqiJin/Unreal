@@ -5,7 +5,7 @@
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\SwitchboardListener\ReadMe.md" />
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\SwitchboardListener\SwitchboardListener.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{A7074CFE-AB93-4A30-806D-9440236C5BDF}</UniqueIdentifier>
+      <UniqueIdentifier>{F5DD8426-131D-4C46-AB68-8D65182EC766}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\SwitchboardListener\Private\SwitchboardListener.cpp">
       <Filter>Private</Filter>
@@ -38,10 +38,10 @@
       <Filter>Private</Filter>
     </ClInclude>
     <Filter Include="Private\Windows">
-      <UniqueIdentifier>{6416BD3B-F181-4B51-B6A6-A027A40C3CE8}</UniqueIdentifier>
+      <UniqueIdentifier>{29B79B58-E438-407F-8FBA-756DE75D9B4A}</UniqueIdentifier>
     </Filter>
     <Filter Include="Private\Windows\Resources">
-      <UniqueIdentifier>{90617501-3A16-4FA6-BDE3-097FFC79106E}</UniqueIdentifier>
+      <UniqueIdentifier>{748F1C48-3049-4F7A-93D5-D87D23C0E33D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\SwitchboardListener\Private\Windows\Resources\Icon.ico">
       <Filter>Private\Windows\Resources</Filter>
@@ -56,7 +56,7 @@
       <Filter>Private\Windows\Resources</Filter>
     </None>
     <Filter Include="Tests">
-      <UniqueIdentifier>{9850C5F9-E27D-4B37-9E54-7E283D6F8B86}</UniqueIdentifier>
+      <UniqueIdentifier>{7024E44F-7899-4346-8E86-7519DD5F4639}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\UnrealEngine4\UE_4.26\UnrealEngine\Engine\Source\Programs\SwitchboardListener\Tests\listener_tests.py">
       <Filter>Tests</Filter>

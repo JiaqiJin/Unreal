@@ -1,0 +1,1242 @@
+﻿Log file open, 06/29/21 12:05:09
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: RPG
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.752545
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Usuario/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-0
+LogInit: Engine Version: 4.26.0-0+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-0+++UE4+Release-4.26
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Jun  1 2021 17:43:08
+LogInit: Compiled with Visual C++: 19.28.29913.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UnrealEngine4/UE_4.26/UnrealEngine/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Engine.ini]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Engine.ini]
+[2021.06.29-11.05.10:285][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Engine.ini]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Engine.ini]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.29-11.05.10:285][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Engine.ini]
+[2021.06.29-11.05.10:285][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Engine.ini]
+[2021.06.29-11.05.10:296][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.29-11.05.10:296][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.29-11.05.10:296][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.29-11.05.10:297][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.29-11.05.10:298][  0]LogHAL: Display: Platform has ~ 16 GB [17126871040 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.29-11.05.10:298][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.29-11.05.10:298][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Scalability.ini]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.29-11.05.10:298][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.29-11.05.10:299][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.29-11.05.10:299][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.29-11.05.10:299][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.29-11.05.10:299][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal/Unreal/RPG/Saved/Config/Windows/Engine.ini]
+[2021.06.29-11.05.10:299][  0]LogInit: Computer: DESKTOP-SQ2C6IA
+[2021.06.29-11.05.10:299][  0]LogInit: User: Usuario
+[2021.06.29-11.05.10:299][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.06.29-11.05.10:299][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.29-11.05.10:299][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.06.29-11.05.10:299][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.29-11.05.10:299][  0]LogMemory: Process Physical Memory: 132.54 MB used, 132.55 MB peak
+[2021.06.29-11.05.10:299][  0]LogMemory: Process Virtual Memory: 108.27 MB used, 108.27 MB peak
+[2021.06.29-11.05.10:299][  0]LogMemory: Physical Memory: 3928.97 MB used,  12404.48 MB free, 16333.46 MB total
+[2021.06.29-11.05.10:299][  0]LogMemory: Virtual Memory: 134206664.00 MB used,  11060.63 MB free, 134217728.00 MB total
+[2021.06.29-11.05.10:308][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.29-11.05.10:525][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.29-11.05.10:528][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.06.29-11.05.10:528][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.06.29-11.05.10:823][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.29-11.05.10:841][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.29-11.05.10:884][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.29-11.05.10:884][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.29-11.05.11:328][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.29-11.05.11:328][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.29-11.05.11:328][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.29-11.05.11:328][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.29-11.05.11:454][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060 SUPER' (Feature Level 11_0)
+[2021.06.29-11.05.11:454][  0]LogD3D11RHI:       8031/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.29-11.05.11:457][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.29-11.05.11:457][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.29-11.05.11:457][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.29-11.05.11:462][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.29-11.05.11:462][  0]LogD3D11RHI:     GPU DeviceId: 0x1f06 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.29-11.05.11:462][  0]LogWindows: EnumDisplayDevices:
+[2021.06.29-11.05.11:462][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060 SUPER' (P:1 D:1)
+[2021.06.29-11.05.11:463][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.06.29-11.05.11:463][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.06.29-11.05.11:464][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060 SUPER' (P:0 D:0)
+[2021.06.29-11.05.11:464][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.29-11.05.11:464][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060 SUPER
+[2021.06.29-11.05.11:464][  0]LogD3D11RHI:   Driver Version: 471.11 (internal:30.0.14.7111, unified:471.11)
+[2021.06.29-11.05.11:464][  0]LogD3D11RHI:      Driver Date: 6-21-2021
+[2021.06.29-11.05.11:464][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.06.29-11.05.11:554][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.29-11.05.11:554][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.29-11.05.11:554][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.29-11.05.11:603][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.06.29-11.05.11:611][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.29-11.05.16:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.29-11.05.16:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.29-11.05.16:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.29-11.05.16:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.29-11.05.16:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.29-11.05.16:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.29-11.05.16:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.29-11.05.16:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.29-11.05.16:653][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.29-11.05.16:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.29-11.05.16:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.29-11.05.16:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.29-11.05.16:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.29-11.05.16:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.29-11.05.16:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.29-11.05.16:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.29-11.05.16:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.29-11.05.16:757][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.29-11.05.16:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.29-11.05.16:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.29-11.05.16:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.29-11.05.16:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.29-11.05.16:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.29-11.05.16:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.29-11.05.16:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.29-11.05.16:839][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.29-11.05.16:868][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.29-11.05.17:100][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.29-11.05.17:101][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../../../Unreal/Unreal/RPG/Intermediate/Shaders/WorkingDirectory/6732/).
+[2021.06.29-11.05.17:102][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Usuario/AppData/Local/Temp/UnrealShaderWorkingDir/1C76A28C49C0FEA1FA8C19AF87668ECF/'.
+[2021.06.29-11.05.17:104][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.29-11.05.17:104][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.29-11.05.17:950][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.29-11.05.18:159][  0]LogDerivedDataCache: Loaded boot cache 0.21s 77MB ../../../../../../Unreal/Unreal/RPG/DerivedDataCache/Boot.ddc.
+[2021.06.29-11.05.18:159][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../../../Unreal/Unreal/RPG/DerivedDataCache/Boot.ddc
+[2021.06.29-11.05.18:159][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal/Unreal/RPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.29-11.05.18:159][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.29-11.05.18:160][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.29-11.05.18:160][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2021.06.29-11.05.18:175][  0]LogDerivedDataCache: Speed tests for ../../../Engine/DerivedDataCache took 0.02 seconds
+[2021.06.29-11.05.18:175][  0]LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.13ms. RandomReadSpeed=126.73MBs, RandomWriteSpeed=141.98MBs. Assigned SpeedClass 'Local'
+[2021.06.29-11.05.18:176][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2021.06.29-11.05.18:176][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.29-11.05.18:176][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.29-11.05.18:230][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.29-11.05.18:235][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.29-11.05.18:304][  0]LogAssetRegistry: FAssetRegistry took 0.0078 seconds to start up
+[2021.06.29-11.05.18:712][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.29-11.05.18:712][  0]LogInit: Active device profile: [000002B426743E00][000002B425063280 49] Windows
+[2021.06.29-11.05.18:712][  0]LogInit: Profiles: [000002B426743E00][000002B425063280 49] Windows, [000002B42673C300][000002B4250673C0 49] WindowsNoEditor, [000002B426740400][000002B42506B500 49] WindowsServer, [000002B42673FB00][000002B42506F640 49] WindowsClient, [000002B426743900][000002B425073780 49] IOS, [000002B42673C900][000002B42507B900 49] iPadAir, [000002B426740800][000002B426227A80 49] iPadAir2, [000002B4266FD700][000002B42622FD40 49] IPadPro, [000002B4266FD800][000002B42622A0C0 49] iPadAir3, [000002B426743A00][000002B426232240 49] iPadAir4, [000002B4266FC800][000002B4262363C0 49] iPadMini2, [000002B426740900][000002B42623A540 49] iPadMini3, [000002B4266FE200][000002B42623E6C0 49] iPadMini4, [000002B426743400][000002B426242840 49] iPadMini5, [000002B42673E700][000002B42624AB00 49] iPhone6, [000002B42673E600][000002B426246B40 49] iPodTouch6, [000002B4266FFC00][000002B426252E00 49] iPhone7, [000002B4266FFA00][000002B42624EE40 49] iPodTouch7, [000002B42673EC00][000002B426256FC0 49] iPhone5S, [000002B4266FD600][000002B42625B140 49] iPhone6Plus, [000002B42673DF00][000002B42625F2C0 49] iPhone6S, [000002B4266FF300][000002B425077400 49] iPhone6SPlus, [000002B42673FE00][000002B426263540 49] iPhone7Plus, [000002B4266FCB00][000002B426267680 49] iPhoneSE, [000002B42673D900][000002B42626B7C0 49] iPhone8, [000002B4266FD100][000002B426273940 49] iPhone8Plus, [000002B42673F800][000002B426277AC0 49] iPhoneX, [000002B4266FC400][000002B42627BC40 49] iPhoneXS, [000002B42673EE00][000002B42627E100 49] iPhoneXSMax, [000002B4266FF800][000002B426282280 49] iPhoneXR, [000002B42673F100][000002B426286400 49] iPhone11, [000002B4266FF100][000002B42628A580 49] iPhone11Pro, [000002B42673D200][000002B42628E700 49] iPhone11ProMax, [000002B4266FF400][000002B426292880 49] iPhoneSE2, [000002B42673D100][000002B426296A00 49] iPhone12Mini, [000002B4266FC900][000002B42629AB80 49] iPhone12, [000002B42673ED00][000002B42629ED00 49] iPhone12Pro, [000002B4266FCF00][000002B4262A2E80 49] iPhone12ProMax, [000002B42673F500][000002B4262A7000 49] iPadPro105, [000002B4266FD300][000002B4262AB180 49] iPadPro129, [000002B42673E200][000002B4262AF300 49] iPadPro97, [000002B4266FE000][000002B4262B3480 49] iPadPro2_129, [000002B42673DB00][000002B42626F5C0 49] iPad5, [000002B4266FC200][000002B4262B7700 49] iPad6, [000002B42673C200][000002B4262BB840 49] iPad7, [000002B4266FFD00][000002B4262C39C0 49] iPad8, [000002B42673F300][000002B4262C7B40 49] iPadPro11, [000002B4266FFB00][000002B4262CBCC0 49] iPadPro2_11, [000002B42673E100][000002B4262CE180 49] iPadPro3_129, [000002B4266FD500][000002B4262D2300 49] iPadPro4_129, [000002B42673E000][000002B4262D6480 49] AppleTV, [000002B4266FEB00][000002B4262DA600 49] AppleTV4K, [000002B42673FD00][000002B4262DE780 49] TVOS, [000002B4266FF600][000002B4262E2900 49] Mac, [000002B42673C500][000002B4262E6A80 49] MacClient, [000002B4266FF700][000002B4262EAC00 49] MacNoEditor, [000002B42673FC00][000002B4262EED80 49] MacServer, [000002B4266FF000][000002B4262F2F00 49] Linux, [000002B42673DD00][000002B4262F7080 49] LinuxNoEditor, [000002B4266FDE00][000002B4262FB200 49] LinuxAArch64NoEditor, [000002B42673C600][000002B4262FF380 49] LinuxClient, [000002B4266FD000][000002B426303500 49] LinuxAArch64Client, [000002B42673CB00][000002B4262BF640 49] LinuxServer, [000002B4266FF200][000002B426307780 49] LinuxAArch64Server, [000002B42673CE00][000002B42630B8C0 49] Android, [000002B4266FED00][000002B42630FA00 49] Android_Low, [000002B42673D600][000002B426317B80 49] Android_Mid, [000002B426740D00][000002B42631BD00 49] Android_High, [000002B4267C5800][000002B42631E1C0 49] Android_Default, [000002B426740C00][000002B426322340 49] Android_Adreno4xx, [000002B4267C5100][000002B4263264C0 49] Android_Adreno5xx_Low, [000002B426741700][000002B42632A640 49] Android_Adreno5xx, [000002B4267C4A00][000002B42632E7C0 49] Android_Adreno6xx, [000002B426741000][000002B426332940 49] Android_Adreno6xx_Vulkan, [000002B4267C4800][000002B426336AC0 49] Android_Mali_T6xx, [000002B426740100][000002B42633AC40 49] Android_Mali_T7xx, [000002B4267C5000][000002B42633EDC0 49] Android_Mali_T8xx, [000002B426742500][000002B426342F40 49] Android_Mali_G71, [000002B4267C4500][000002B4263470C0 49] Android_Mali_G72, [000002B426742000][000002B42634B240 49] Android_Mali_G72_Vulkan, [000002B4267C5500][000002B42634F3C0 49] Android_Mali_G76, [000002B426742A00][000002B426353540 49] Android_Mali_G76_Vulkan, [000002B4267C4400][000002B426313680 49] Android_Mali_G77, [000002B426743100][000002B4263577C0 49] Android_Mali_G77_Vulkan, [000002B4267C6000][000002B42635B900 49] Android_Vulkan_SM5, [000002B426741E00][000002B42635FA40 49] Android_PowerVR_G6xxx, [000002B4267C5700][000002B426367BC0 49] Android_PowerVR_GT7xxx, [000002B426740E00][000002B42636BD40 49] Android_PowerVR_GE8xxx, [000002B4267C5300][000002B42636E200 49] Android_PowerVR_GM9xxx, [000002B426741200][000002B426372380 49] Android_PowerVR_GM9xxx_Vulkan, [000002B4267C4F00][000002B426376500 49] Android_TegraK1, [000002B42673CF00][000002B42637A680 49] Android_Unknown_Vulkan, [000002B4266FE400][000002B42637E800 49] Lumin, [000002B42673EA00][000002B426382980 49] Lumin_Desktop, [000002B4266FDC00][000002B426386B00 49] HoloLens, 
+[2021.06.29-11.05.18:984][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.29-11.05.18:984][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.29-11.05.18:984][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.29-11.05.18:984][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.29-11.05.18:985][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.29-11.05.19:108][  0]LogNetVersion: RPG 1.0.0, NetCL: 0, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3418645070)
+[2021.06.29-11.05.20:230][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.29-11.05.20:286][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.049965 seconds
+[2021.06.29-11.05.20:293][  0]LogUObjectArray: 16816 objects as part of root set at end of initial load.
+[2021.06.29-11.05.20:293][  0]LogUObjectAllocator: 4205952 out of 0 bytes used by permanent object pool.
+[2021.06.29-11.05.20:293][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.29-11.05.21:066][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.29-11.05.21:076][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.29-11.05.21:580][  0]SourceControl: Source control is disabled
+[2021.06.29-11.05.21:580][  0]SourceControl: Source control is disabled
+[2021.06.29-11.05.21:594][  0]SourceControl: Source control is disabled
+[2021.06.29-11.05.21:603][  0]SourceControl: Source control is disabled
+[2021.06.29-11.05.21:617][  0]SourceControl: Source control is disabled
+[2021.06.29-11.05.21:659][  0]LogUProjectInfo: Found projects:
+[2021.06.29-11.05.22:208][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.29-11.05.22:243][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.29-11.05.22:243][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.29-11.05.22:361][  0]LogCollectionManager: Loaded 0 collections in 0.001552 seconds
+[2021.06.29-11.05.22:409][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/Unreal/RPG/Saved/Collections/' took 0.00s
+[2021.06.29-11.05.22:409][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/Unreal/RPG/Content/Developers/Usuario/Collections/' took 0.00s
+[2021.06.29-11.05.22:409][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/Unreal/RPG/Content/Collections/' took 0.00s
+[2021.06.29-11.05.22:409][  0]LogOcInput: OculusInput pre-init called
+[2021.06.29-11.05.22:438][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.29-11.05.22:438][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.29-11.05.22:550][  0]LogEngine: Initializing Engine...
+[2021.06.29-11.05.22:556][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.29-11.05.22:556][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.29-11.05.22:560][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2021.06.29-11.05.22:722][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.29-11.05.22:766][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.29-11.05.22:772][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.29-11.05.22:780][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.29-11.05.22:780][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.29-11.05.22:781][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.29-11.05.22:781][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.29-11.05.22:781][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.29-11.05.22:781][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.29-11.05.22:781][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.29-11.05.22:781][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.29-11.05.22:781][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.29-11.05.22:781][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.29-11.05.22:782][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.29-11.05.22:782][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.29-11.05.22:812][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.29-11.05.22:812][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.29-11.05.22:849][  0]LogAudioMixer: Display: Using Audio Device LG FULL HD (NVIDIA High Definition Audio)
+[2021.06.29-11.05.22:852][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.29-11.05.22:855][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.29-11.05.22:856][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.29-11.05.22:857][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.29-11.05.22:858][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.29-11.05.22:858][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.29-11.05.22:859][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.29-11.05.22:859][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.29-11.05.22:859][  0]LogInit: FAudioDevice initialized.
+[2021.06.29-11.05.22:860][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.29-11.05.22:861][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.29-11.05.22:944][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB ../../../../../../Unreal/Unreal/RPG/DerivedDataCache/Boot.ddc.
+[2021.06.29-11.05.22:944][  0]LogInit: Texture streaming: Enabled
+[2021.06.29-11.05.22:987][  0]LogAnalytics: Display: [UEEditor.UnrealEngine.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-0+++UE4+Release-4.26
+[2021.06.29-11.05.22:994][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.29-11.05.22:994][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.29-11.05.22:997][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.29-11.05.24:156][  0]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{e38d48ef-3af3-4ead-807a-843a2ced58d9}.
+[2021.06.29-11.05.24:172][  0]LogInit: Transaction tracking system initialized
+[2021.06.29-11.05.24:237][  0]BlueprintLog: New page: Editor Load
+[2021.06.29-11.05.24:487][  0]LocalizationService: Localization service is disabled
+[2021.06.29-11.05.24:566][  0]TimingProfiler: Initialize
+[2021.06.29-11.05.24:568][  0]TimingProfiler: OnSessionChanged
+[2021.06.29-11.05.24:568][  0]LoadingProfiler: Initialize
+[2021.06.29-11.05.24:568][  0]LoadingProfiler: OnSessionChanged
+[2021.06.29-11.05.24:568][  0]NetworkingProfiler: Initialize
+[2021.06.29-11.05.24:569][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.29-11.05.24:570][  0]MemoryProfiler: Initialize
+[2021.06.29-11.05.24:570][  0]MemoryProfiler: OnSessionChanged
+[2021.06.29-11.05.24:874][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.29-11.05.24:874][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.29-11.05.25:254][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/Unreal/RPG/Content/' took 0.01s
+[2021.06.29-11.05.25:560][  0]SourceControl: Source control is disabled
+[2021.06.29-11.05.25:560][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.751
+[2021.06.29-11.05.25:562][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal/Unreal/RPG/Content/Maps/SunTemple.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.29-11.05.25:563][  0]LightingResults: New page: Lighting Build
+[2021.06.29-11.05.25:572][  0]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.29-11.05.25:595][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.29-11.05.25:595][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.29-11.05.25:639][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.05.25:640][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.05.25:641][  0]MapCheck: New page: Map Check
+[2021.06.29-11.05.25:641][  0]LightingResults: New page: Lighting Build
+[2021.06.29-11.05.25:655][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.06.29-11.05.26:644][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'SunTemple'.
+[2021.06.29-11.05.26:644][  0]LogAIModule: Creating AISystem for world SunTemple
+[2021.06.29-11.05.26:685][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.29-11.05.26:706][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.06.29-11.05.26:708][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.29-11.05.26:708][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.606ms to complete.
+[2021.06.29-11.05.26:708][  0]LogFileHelpers: Loading map 'SunTemple' took 1.147
+[2021.06.29-11.05.26:737][  0]LogUnrealEdMisc: Total Editor Startup Time, took 18.927
+[2021.06.29-11.05.26:902][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.05.26:908][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.05.26:914][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.05.26:919][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.05.26:958][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3607 classes and 859 folders.
+[2021.06.29-11.05.26:968][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.06.29-11.05.26:974][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.06.29-11.05.26:977][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.06.29-11.05.26:978][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.06.29-11.05.26:980][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.06.29-11.05.26:983][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.06.29-11.05.26:985][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.06.29-11.05.26:987][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.06.29-11.05.26:988][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.06.29-11.05.26:990][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.06.29-11.05.26:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.06.29-11.05.26:993][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.06.29-11.05.26:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.06.29-11.05.26:996][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.06.29-11.05.26:998][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.06.29-11.05.27:000][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.06.29-11.05.27:003][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.06.29-11.05.27:005][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.06.29-11.05.27:007][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.06.29-11.05.27:008][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.06.29-11.05.27:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.06.29-11.05.27:013][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.06.29-11.05.27:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.06.29-11.05.27:017][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.06.29-11.05.27:020][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.06.29-11.05.27:022][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.06.29-11.05.27:024][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.06.29-11.05.27:216][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.29-11.05.27:225][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.06.29-11.05.27:449][  0]LogSlate: Took 0.002058 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.29-11.05.27:452][  0]LogSlate: Took 0.001367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.29-11.05.27:457][  0]LogSlate: Took 0.001130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.29-11.05.27:459][  0]LogSlate: Took 0.001066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.29-11.05.27:639][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.06.29-11.05.27:959][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.29-11.05.27:959][  0]LogLoad: (Engine Initialization) Total time: 20.15 seconds
+[2021.06.29-11.05.27:959][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.29-11.05.27:959][  0]LogInit: First time updating LLM stats...
+[2021.06.29-11.05.28:006][  0]LogAssetRegistry: Asset discovery search completed in 9.7024 seconds
+[2021.06.29-11.05.28:007][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.06.29-11.05.28:037][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.29-11.05.28:976][103]LogSlate: Took 0.001403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.29-11.05.40:514][  6]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{4d8617fd-5eba-4edd-9238-086b29711ef2}.
+[2021.06.29-11.05.40:514][  6]LogAudioMixer: Resetting audio stream to device id 
+[2021.06.29-11.05.40:546][  6]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.29-11.05.40:546][  6]LogAudioMixer: Display: 1: FrontRight
+[2021.06.29-11.06.01:700][ 75]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameplayMechanic/FloorSwitch_BP.FloorSwitch_BP
+[2021.06.29-11.06.01:856][ 75]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.06.29-11.06.04:438][254]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2021.06.29-11.06.07:427][592]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.29-11.06.52:721][178]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2021.06.29-11.06.53:414][179]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2021.06.29-11.06.53:429][180]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2021.06.29-11.06.58:618][181]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2021.06.29-11.09.32:422][639]LogHotReload: New module detected: UE4Editor-RPG-0009.dll
+[2021.06.29-11.09.33:443][643]LogHotReload: Starting Hot-Reload from IDE
+[2021.06.29-11.09.33:486][643]LogClass: Could not find existing class FloorSwitch in package /Script/RPG for HotReload, assuming new class
+[2021.06.29-11.09.33:486][643]LogClass: Function OnOverlapBegin is new.
+[2021.06.29-11.09.33:486][643]LogClass: Function OnOverlapEnd is new.
+[2021.06.29-11.09.33:507][643]LogHotReload: Re-instancing FloorSwitch after hot-reload.
+[2021.06.29-11.09.33:577][643]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'RPG' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2021.06.29-11.09.33:581][643]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.06.29-11.09.33:658][643]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0120 seconds. Added 3607 classes and 859 folders.
+[2021.06.29-11.09.33:667][643]Display: HotReload took  0.2s.
+[2021.06.29-11.09.55:405][678]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.09.55:405][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.09.55:480][678]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameplayMechanic/FloorSwitch_BP.FloorSwitch_BP
+[2021.06.29-11.09.56:050][678]LogSlate: Took 0.001243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.29-11.09.59:468][772]LogSlate: Window 'FloorSwitch_BP' being destroyed
+[2021.06.29-11.12.27:039][106]LogHotReload: New module detected: UE4Editor-RPG-0010.dll
+[2021.06.29-11.12.28:057][110]LogHotReload: Starting Hot-Reload from IDE
+[2021.06.29-11.12.28:105][110]LogClass: Could not find existing class FloorSwitch in package /Script/RPG for HotReload, assuming new class
+[2021.06.29-11.12.28:105][110]LogClass: Function OnOverlapBegin is new.
+[2021.06.29-11.12.28:105][110]LogClass: Function OnOverlapEnd is new.
+[2021.06.29-11.12.28:124][110]LogHotReload: Re-instancing FloorSwitch after hot-reload.
+[2021.06.29-11.12.28:160][110]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'RPG' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2021.06.29-11.12.28:165][110]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.06.29-11.12.28:248][110]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3607 classes and 859 folders.
+[2021.06.29-11.12.28:252][110]Display: HotReload took  0.2s.
+[2021.06.29-11.12.31:168][328]LogSlate: Took 0.001240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.29-11.15.10:031][ 84]BlueprintLog: New page: Compile FloorSwitch_BP
+[2021.06.29-11.15.10:150][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2021.06.29-11.15.17:047][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayMechanic/FloorSwitch_BP" FILE="../../../../../../Unreal/Unreal/RPG/Content/GameplayMechanic/FloorSwitch_BP.uasset" SILENT=true
+[2021.06.29-11.15.17:072][881]LogSavePackage: Moving '../../../../../../Unreal/Unreal/RPG/Saved/FloorSwitch_BP421E214B43F3FF2B3F1E0E963B582C5B.tmp' to '../../../../../../Unreal/Unreal/RPG/Content/GameplayMechanic/FloorSwitch_BP.uasset'
+[2021.06.29-11.15.17:092][881]AssetCheck: New page: Asset Save: FloorSwitch_BP
+[2021.06.29-11.15.17:092][881]LogContentValidation: Display: Validating Blueprint /Game/GameplayMechanic/FloorSwitch_BP.FloorSwitch_BP
+[2021.06.29-11.15.19:400][137]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.29-11.15.19:411][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.29-11.15.19:416][137]PIE: New page: PIE session: SunTemple (Jun 29, 2021, 1:15:19 PM)
+[2021.06.29-11.15.19:422][137]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.29-11.15.19:424][137]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.29-11.15.19:425][137]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.15.19:477][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051321s)
+[2021.06.29-11.15.19:478][137]LogAIModule: Creating AISystem for world SunTemple
+[2021.06.29-11.15.19:479][137]LogPlayLevel: PIE: World Init took: (0.002311s)
+[2021.06.29-11.15.19:480][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.054129s)
+[2021.06.29-11.15.19:544][137]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.06.29-11.15.19:546][137]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.29-11.15.19:546][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.29-11.15.19:546][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.29-11.15.19:546][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.29-11.15.19:546][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.29-11.15.19:546][137]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.29-11.15.19:546][137]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.29-11.15.19:546][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.29-11.15.19:546][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.29-11.15.19:547][137]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.29-11.15.19:547][137]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.29-11.15.19:556][137]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.29-11.15.19:556][137]LogAudioMixer: Display: 1: FrontRight
+[2021.06.29-11.15.19:568][137]LogAudioMixer: Display: Using Audio Device Auriculares (XMFHZ02 Stereo)
+[2021.06.29-11.15.19:568][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.29-11.15.19:568][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.29-11.15.19:568][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.29-11.15.19:569][137]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.29-11.15.19:569][137]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.29-11.15.19:569][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.29-11.15.19:580][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.29-11.15.19:580][137]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.29-11.15.19:580][137]LogInit: FAudioDevice initialized.
+[2021.06.29-11.15.19:580][137]LogAudio: Display: Audio Device (ID: 2) registered with world 'SunTemple'.
+[2021.06.29-11.15.19:593][137]LogLoad: Game class is 'MyGame_C'
+[2021.06.29-11.15.19:619][137]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2021.06.29-12.15.19
+[2021.06.29-11.15.19:622][137]LogWorld: Bringing up level for play took: 0.012661
+[2021.06.29-11.15.19:623][137]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.06.29-11.15.19:674][137]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.06.29-11.15.19:674][137]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.15.19:674][137]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.15.19:674][137]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.15.19:688][137]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.15.19:688][137]PIE: Server logged in
+[2021.06.29-11.15.19:692][137]PIE: Play in editor total start time 0.286 seconds.
+[2021.06.29-11.15.22:055][367]LogTemp: Warning: Overlap Begin
+[2021.06.29-11.15.24:243][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.15.24:243][623]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.15.24:244][623]LogWorld: UWorld::CleanupWorld for SunTemple, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.15.24:247][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.15.24:256][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.29-11.15.24:264][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.15.24:286][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.15.24:291][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.15.24:292][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.15.24:359][623]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.06.29-11.15.24:380][624]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.06.29-11.15.34:933][865]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.29-11.15.34:939][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.29-11.15.34:939][865]PIE: New page: PIE session: SunTemple (Jun 29, 2021, 1:15:34 PM)
+[2021.06.29-11.15.34:960][865]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.15.35:007][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047913s)
+[2021.06.29-11.15.35:008][865]LogAIModule: Creating AISystem for world SunTemple
+[2021.06.29-11.15.35:009][865]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2021.06.29-11.15.35:009][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.049663s)
+[2021.06.29-11.15.35:059][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.06.29-11.15.35:061][865]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.06.29-11.15.35:061][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.29-11.15.35:061][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.29-11.15.35:061][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.29-11.15.35:061][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.29-11.15.35:061][865]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.29-11.15.35:061][865]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.29-11.15.35:061][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.29-11.15.35:061][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.29-11.15.35:061][865]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.29-11.15.35:061][865]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.29-11.15.35:071][865]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.29-11.15.35:071][865]LogAudioMixer: Display: 1: FrontRight
+[2021.06.29-11.15.35:083][865]LogAudioMixer: Display: Using Audio Device Auriculares (XMFHZ02 Stereo)
+[2021.06.29-11.15.35:083][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.29-11.15.35:083][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.29-11.15.35:083][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.29-11.15.35:083][865]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.29-11.15.35:084][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.29-11.15.35:084][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.29-11.15.35:095][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.29-11.15.35:095][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.29-11.15.35:095][865]LogInit: FAudioDevice initialized.
+[2021.06.29-11.15.35:095][865]LogAudio: Display: Audio Device (ID: 3) registered with world 'SunTemple'.
+[2021.06.29-11.15.35:103][865]LogLoad: Game class is 'MyGame_C'
+[2021.06.29-11.15.35:113][865]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2021.06.29-12.15.35
+[2021.06.29-11.15.35:113][865]LogWorld: Bringing up level for play took: 0.010659
+[2021.06.29-11.15.35:114][865]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.06.29-11.15.35:115][865]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.15.35:115][865]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.15.35:115][865]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.15.35:117][865]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.15.35:117][865]PIE: Server logged in
+[2021.06.29-11.15.35:118][865]PIE: Play in editor total start time 0.181 seconds.
+[2021.06.29-11.15.36:791][ 59]LogTemp: Warning: Overlap Begin
+[2021.06.29-11.15.39:391][371]LogTemp: Warning: Overlap End
+[2021.06.29-11.15.43:051][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.15.43:051][806]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.15.43:051][806]LogWorld: UWorld::CleanupWorld for SunTemple, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.15.43:054][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.15.43:065][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.29-11.15.43:071][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.15.43:089][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.15.43:092][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.15.43:093][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.15.43:111][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.06.29-11.15.43:132][807]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.06.29-11.16.27:031][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.06.29-11.16.27:033][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SunTemple" FILE="../../../../../../Unreal/Unreal/RPG/Saved/Autosaves/Game/Maps/SunTemple_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.29-11.16.27:274][  6]LogSavePackage: Moving '../../../../../../Unreal/Unreal/RPG/Saved/SunTemple_Auto14A525B2D4A57C33C8F227D982AB28C6B.tmp' to '../../../../../../Unreal/Unreal/RPG/Saved/Autosaves/Game/Maps/SunTemple_Auto1.umap'
+[2021.06.29-11.16.27:276][  6]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SunTemple' took 0.267
+[2021.06.29-11.16.27:277][  6]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.267
+[2021.06.29-11.16.27:277][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameplayMechanic/FloorSwitch_BP] ([1] browsable assets)...
+[2021.06.29-11.16.27:277][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayMechanic/FloorSwitch_BP]
+[2021.06.29-11.16.27:283][  6]LogSavePackage: Moving '../../../../../../Unreal/Unreal/RPG/Saved/FloorSwitch_BP_Auto18700694E47AE94AC4861BE8426174FB2.tmp' to '../../../../../../Unreal/Unreal/RPG/Saved/Autosaves/Game/GameplayMechanic/FloorSwitch_BP_Auto1.uasset'
+[2021.06.29-11.16.27:283][  6]LogFileHelpers: Auto-saving content packages took 0.007
+[2021.06.29-11.24.33:259][ 55]LogHotReload: New module detected: UE4Editor-RPG-0011.dll
+[2021.06.29-11.24.34:280][ 59]LogHotReload: Starting Hot-Reload from IDE
+[2021.06.29-11.24.34:313][ 59]LogClass: Could not find existing class FloorSwitch in package /Script/RPG for HotReload, assuming new class
+[2021.06.29-11.24.34:313][ 59]LogClass: Function OnOverlapBegin is new.
+[2021.06.29-11.24.34:313][ 59]LogClass: Function OnOverlapEnd is new.
+[2021.06.29-11.24.34:331][ 59]LogHotReload: Re-instancing FloorSwitch after hot-reload.
+[2021.06.29-11.24.34:371][ 59]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'RPG' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2021.06.29-11.24.34:376][ 59]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.06.29-11.24.34:452][ 59]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3607 classes and 859 folders.
+[2021.06.29-11.24.34:455][ 59]Display: HotReload took  0.2s.
+[2021.06.29-11.38.01:900][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2021.06.29-11.38.01:902][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SunTemple' took 0.082
+[2021.06.29-11.38.01:903][ 16]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameplayMechanic/FloorSwitch_BP] ([1] browsable assets)...
+[2021.06.29-11.38.01:911][ 16]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameplayMechanic/FloorSwitch_BP.FloorSwitch_BP]
+[2021.06.29-11.38.01:911][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayMechanic/FloorSwitch_BP]
+[2021.06.29-11.38.01:922][ 16]LogSavePackage: Moving '../../../../../../Unreal/Unreal/RPG/Saved/FloorSwitch_BP_Auto22B7922674D70219098B8569FDD105305.tmp' to '../../../../../../Unreal/Unreal/RPG/Saved/Autosaves/Game/GameplayMechanic/FloorSwitch_BP_Auto2.uasset'
+[2021.06.29-11.38.01:924][ 16]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.06.29-11.38.54:560][173]LogHotReload: New module detected: UE4Editor-RPG-0012.dll
+[2021.06.29-11.38.55:240][176]LogHotReload: Starting Hot-Reload from IDE
+[2021.06.29-11.38.55:269][176]LogClass: Could not find existing class FloorSwitch in package /Script/RPG for HotReload, assuming new class
+[2021.06.29-11.38.55:269][176]LogClass: Function OnOverlapBegin is new.
+[2021.06.29-11.38.55:269][176]LogClass: Function OnOverlapEnd is new.
+[2021.06.29-11.38.55:270][176]LogClass: Function UpdateDoorLocation is new.
+[2021.06.29-11.38.55:288][176]LogHotReload: Re-instancing FloorSwitch after hot-reload.
+[2021.06.29-11.38.55:331][176]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'RPG' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2021.06.29-11.38.55:337][176]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2021.06.29-11.38.55:431][176]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0097 seconds. Added 3607 classes and 859 folders.
+[2021.06.29-11.38.55:434][176]Display: HotReload took  0.2s.
+[2021.06.29-11.39.43:303][685]BlueprintLog: New page: Compile FloorSwitch_BP
+[2021.06.29-11.39.43:416][685]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2021.06.29-11.41.20:364][967]LogHotReload: New module detected: UE4Editor-RPG-0013.dll
+[2021.06.29-11.41.21:377][971]LogHotReload: Starting Hot-Reload from IDE
+[2021.06.29-11.41.21:435][971]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'RPG' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2021.06.29-11.41.21:441][971]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2021.06.29-11.41.21:535][971]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3607 classes and 859 folders.
+[2021.06.29-11.41.21:538][971]Display: HotReload took  0.2s.
+[2021.06.29-11.41.41:935][ 31]LogHotReload: New module detected: UE4Editor-RPG-0014.dll
+[2021.06.29-11.41.42:620][ 34]LogHotReload: Starting Hot-Reload from IDE
+[2021.06.29-11.41.42:697][ 34]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'RPG' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2021.06.29-11.41.42:705][ 34]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2021.06.29-11.41.42:816][ 34]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0103 seconds. Added 3607 classes and 859 folders.
+[2021.06.29-11.41.42:819][ 34]Display: HotReload took  0.2s.
+[2021.06.29-11.41.45:733][248]BlueprintLog: New page: Compile FloorSwitch_BP
+[2021.06.29-11.41.45:886][248]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2021.06.29-11.41.47:011][353]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.29-11.41.47:018][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.29-11.41.47:018][353]PIE: New page: PIE session: SunTemple (Jun 29, 2021, 1:41:47 PM)
+[2021.06.29-11.41.47:040][353]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.41.47:088][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047953s)
+[2021.06.29-11.41.47:089][353]LogAIModule: Creating AISystem for world SunTemple
+[2021.06.29-11.41.47:089][353]LogPlayLevel: PIE: World Init took: (0.001166s)
+[2021.06.29-11.41.47:089][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.049329s)
+[2021.06.29-11.41.47:139][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.06.29-11.41.47:140][353]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.06.29-11.41.47:140][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.29-11.41.47:140][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.29-11.41.47:140][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.29-11.41.47:140][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.29-11.41.47:140][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.29-11.41.47:140][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.29-11.41.47:140][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.29-11.41.47:140][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.29-11.41.47:140][353]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.29-11.41.47:140][353]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.29-11.41.47:149][353]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.29-11.41.47:149][353]LogAudioMixer: Display: 1: FrontRight
+[2021.06.29-11.41.47:162][353]LogAudioMixer: Display: Using Audio Device Auriculares (XMFHZ02 Stereo)
+[2021.06.29-11.41.47:163][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.29-11.41.47:163][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.29-11.41.47:163][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.29-11.41.47:163][353]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.29-11.41.47:163][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.29-11.41.47:163][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.29-11.41.47:174][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.29-11.41.47:174][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.29-11.41.47:174][353]LogInit: FAudioDevice initialized.
+[2021.06.29-11.41.47:174][353]LogAudio: Display: Audio Device (ID: 4) registered with world 'SunTemple'.
+[2021.06.29-11.41.47:184][353]LogLoad: Game class is 'MyGame_C'
+[2021.06.29-11.41.47:195][353]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2021.06.29-12.41.47
+[2021.06.29-11.41.47:196][353]LogWorld: Bringing up level for play took: 0.010922
+[2021.06.29-11.41.47:196][353]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.06.29-11.41.47:198][353]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.41.47:198][353]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.41.47:198][353]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.41.47:199][353]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.41.47:199][353]PIE: Server logged in
+[2021.06.29-11.41.47:200][353]PIE: Play in editor total start time 0.186 seconds.
+[2021.06.29-11.41.48:657][521]LogTemp: Warning: Overlap Begin
+[2021.06.29-11.41.51:983][920]LogTemp: Warning: Overlap End
+[2021.06.29-11.41.53:042][ 46]LogTemp: Warning: Overlap Begin
+[2021.06.29-11.41.53:710][126]LogTemp: Warning: Overlap End
+[2021.06.29-11.41.54:470][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.41.54:471][214]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.41.54:471][214]LogWorld: UWorld::CleanupWorld for SunTemple, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.41.54:473][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.41.54:478][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.29-11.41.54:484][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.41.54:503][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.41.54:505][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.41.54:506][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.41.54:527][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.06.29-11.41.54:549][215]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.06.29-11.42.19:718][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayMechanic/FloorSwitch_BP" FILE="../../../../../../Unreal/Unreal/RPG/Content/GameplayMechanic/FloorSwitch_BP.uasset" SILENT=true
+[2021.06.29-11.42.19:729][687]LogSavePackage: Moving '../../../../../../Unreal/Unreal/RPG/Saved/FloorSwitch_BP6717B11544E642AFD662E1BE190EAEE8.tmp' to '../../../../../../Unreal/Unreal/RPG/Content/GameplayMechanic/FloorSwitch_BP.uasset'
+[2021.06.29-11.42.19:742][687]AssetCheck: New page: Asset Save: FloorSwitch_BP
+[2021.06.29-11.42.19:742][687]LogContentValidation: Display: Validating Blueprint /Game/GameplayMechanic/FloorSwitch_BP.FloorSwitch_BP
+[2021.06.29-11.42.50:776][129]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.29-11.42.50:781][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.29-11.42.50:781][129]PIE: New page: PIE session: SunTemple (Jun 29, 2021, 1:42:50 PM)
+[2021.06.29-11.42.50:819][129]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.42.50:867][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048090s)
+[2021.06.29-11.42.50:868][129]LogAIModule: Creating AISystem for world SunTemple
+[2021.06.29-11.42.50:868][129]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2021.06.29-11.42.50:868][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.049428s)
+[2021.06.29-11.42.50:890][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.06.29-11.42.50:891][129]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.06.29-11.42.50:891][129]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.29-11.42.50:891][129]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.29-11.42.50:891][129]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.29-11.42.50:891][129]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.29-11.42.50:891][129]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.29-11.42.50:891][129]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.29-11.42.50:892][129]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.29-11.42.50:892][129]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.29-11.42.50:892][129]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.29-11.42.50:892][129]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.29-11.42.50:901][129]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.29-11.42.50:901][129]LogAudioMixer: Display: 1: FrontRight
+[2021.06.29-11.42.50:914][129]LogAudioMixer: Display: Using Audio Device Auriculares (XMFHZ02 Stereo)
+[2021.06.29-11.42.50:914][129]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.29-11.42.50:914][129]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.29-11.42.50:914][129]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.29-11.42.50:914][129]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.29-11.42.50:914][129]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.29-11.42.50:914][129]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.29-11.42.50:926][129]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.29-11.42.50:926][129]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.29-11.42.50:926][129]LogInit: FAudioDevice initialized.
+[2021.06.29-11.42.50:926][129]LogAudio: Display: Audio Device (ID: 5) registered with world 'SunTemple'.
+[2021.06.29-11.42.50:931][129]LogLoad: Game class is 'MyGame_C'
+[2021.06.29-11.42.50:942][129]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2021.06.29-12.42.50
+[2021.06.29-11.42.50:943][129]LogWorld: Bringing up level for play took: 0.010964
+[2021.06.29-11.42.50:943][129]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.06.29-11.42.50:946][129]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.42.50:946][129]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.42.50:946][129]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.42.50:947][129]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.42.50:947][129]PIE: Server logged in
+[2021.06.29-11.42.50:948][129]PIE: Play in editor total start time 0.168 seconds.
+[2021.06.29-11.42.54:692][573]LogTemp: Warning: Overlap Begin
+[2021.06.29-11.42.56:917][840]LogTemp: Warning: Overlap End
+[2021.06.29-11.42.57:961][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.42.57:961][961]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.42.57:961][961]LogWorld: UWorld::CleanupWorld for SunTemple, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.42.57:964][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.42.57:973][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.29-11.42.57:979][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.42.58:000][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.42.58:000][961]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.42.58:000][961]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.42.58:019][961]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.06.29-11.42.58:038][962]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.06.29-11.43.20:139][986]BlueprintLog: New page: Compile FloorSwitch_BP
+[2021.06.29-11.43.20:176][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.06.29-11.43.21:775][161]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.29-11.43.21:782][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.29-11.43.21:782][161]PIE: New page: PIE session: SunTemple (Jun 29, 2021, 1:43:21 PM)
+[2021.06.29-11.43.21:782][161]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.43.21:828][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046573s)
+[2021.06.29-11.43.21:830][161]LogAIModule: Creating AISystem for world SunTemple
+[2021.06.29-11.43.21:830][161]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2021.06.29-11.43.21:830][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.047748s)
+[2021.06.29-11.43.21:851][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.06.29-11.43.21:852][161]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.06.29-11.43.21:852][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.29-11.43.21:852][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.29-11.43.21:852][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.29-11.43.21:852][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.29-11.43.21:852][161]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.29-11.43.21:852][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.29-11.43.21:852][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.29-11.43.21:852][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.29-11.43.21:852][161]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.29-11.43.21:852][161]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.29-11.43.21:861][161]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.29-11.43.21:861][161]LogAudioMixer: Display: 1: FrontRight
+[2021.06.29-11.43.21:873][161]LogAudioMixer: Display: Using Audio Device Auriculares (XMFHZ02 Stereo)
+[2021.06.29-11.43.21:874][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.29-11.43.21:874][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.29-11.43.21:874][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.29-11.43.21:874][161]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.29-11.43.21:874][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.29-11.43.21:874][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.29-11.43.21:885][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.29-11.43.21:885][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.29-11.43.21:885][161]LogInit: FAudioDevice initialized.
+[2021.06.29-11.43.21:885][161]LogAudio: Display: Audio Device (ID: 6) registered with world 'SunTemple'.
+[2021.06.29-11.43.21:893][161]LogLoad: Game class is 'MyGame_C'
+[2021.06.29-11.43.21:904][161]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2021.06.29-12.43.21
+[2021.06.29-11.43.21:905][161]LogWorld: Bringing up level for play took: 0.010737
+[2021.06.29-11.43.21:905][161]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.06.29-11.43.21:906][161]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.43.21:906][161]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.43.21:907][161]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.43.21:908][161]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.43.21:908][161]PIE: Server logged in
+[2021.06.29-11.43.21:909][161]PIE: Play in editor total start time 0.13 seconds.
+[2021.06.29-11.43.23:215][311]LogTemp: Warning: Overlap Begin
+[2021.06.29-11.43.24:499][465]LogTemp: Warning: Overlap End
+[2021.06.29-11.43.24:981][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.43.24:981][518]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.43.24:981][518]LogWorld: UWorld::CleanupWorld for SunTemple, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.43.24:984][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.43.24:991][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.29-11.43.24:997][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.43.25:017][518]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.43.25:017][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.43.25:018][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.43.25:031][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.43.25:037][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.06.29-11.43.25:058][519]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.06.29-11.43.27:706][827]BlueprintLog: New page: Compile FloorSwitch_BP
+[2021.06.29-11.43.27:741][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.06.29-11.45.37:852][ 93]LogHotReload: New module detected: UE4Editor-RPG-0015.dll
+[2021.06.29-11.45.38:537][ 96]LogHotReload: Starting Hot-Reload from IDE
+[2021.06.29-11.45.38:607][ 96]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'RPG' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2021.06.29-11.45.38:616][ 96]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2021.06.29-11.45.38:698][ 96]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3607 classes and 859 folders.
+[2021.06.29-11.45.38:701][ 96]Display: HotReload took  0.2s.
+[2021.06.29-11.45.42:539][388]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.29-11.45.42:545][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.29-11.45.42:545][388]PIE: New page: PIE session: SunTemple (Jun 29, 2021, 1:45:42 PM)
+[2021.06.29-11.45.42:579][388]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.45.42:627][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048641s)
+[2021.06.29-11.45.42:628][388]LogAIModule: Creating AISystem for world SunTemple
+[2021.06.29-11.45.42:629][388]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2021.06.29-11.45.42:629][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.050135s)
+[2021.06.29-11.45.42:695][388]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.06.29-11.45.42:699][388]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.06.29-11.45.42:699][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.29-11.45.42:699][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.29-11.45.42:699][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.29-11.45.42:699][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.29-11.45.42:699][388]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.29-11.45.42:699][388]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.29-11.45.42:699][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.29-11.45.42:699][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.29-11.45.42:699][388]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.29-11.45.42:699][388]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.29-11.45.42:708][388]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.29-11.45.42:708][388]LogAudioMixer: Display: 1: FrontRight
+[2021.06.29-11.45.42:720][388]LogAudioMixer: Display: Using Audio Device Auriculares (XMFHZ02 Stereo)
+[2021.06.29-11.45.42:720][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.29-11.45.42:720][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.29-11.45.42:720][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.29-11.45.42:721][388]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.29-11.45.42:721][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.29-11.45.42:721][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.29-11.45.42:732][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.29-11.45.42:732][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.29-11.45.42:732][388]LogInit: FAudioDevice initialized.
+[2021.06.29-11.45.42:732][388]LogAudio: Display: Audio Device (ID: 7) registered with world 'SunTemple'.
+[2021.06.29-11.45.42:740][388]LogLoad: Game class is 'MyGame_C'
+[2021.06.29-11.45.42:750][388]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2021.06.29-12.45.42
+[2021.06.29-11.45.42:751][388]LogWorld: Bringing up level for play took: 0.010694
+[2021.06.29-11.45.42:751][388]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.06.29-11.45.42:753][388]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.45.42:753][388]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.45.42:753][388]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.45.42:754][388]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.45.42:754][388]PIE: Server logged in
+[2021.06.29-11.45.42:755][388]PIE: Play in editor total start time 0.212 seconds.
+[2021.06.29-11.45.44:011][533]LogTemp: Warning: Overlap Begin
+[2021.06.29-11.45.45:370][696]LogTemp: Warning: Overlap End
+[2021.06.29-11.45.47:190][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.45.47:190][911]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.45.47:191][911]LogWorld: UWorld::CleanupWorld for SunTemple, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.45.47:194][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.45.47:200][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.29-11.45.47:206][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.45.47:231][911]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.45.47:231][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.45.47:232][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.45.47:245][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.45.47:272][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2021.06.29-11.45.47:296][912]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.06.29-11.46.12:786][284]BlueprintLog: New page: Compile FloorSwitch_BP
+[2021.06.29-11.46.12:823][284]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.06.29-11.46.14:663][494]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.29-11.46.14:671][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.29-11.46.14:671][494]PIE: New page: PIE session: SunTemple (Jun 29, 2021, 1:46:14 PM)
+[2021.06.29-11.46.14:709][494]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.46.14:758][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048116s)
+[2021.06.29-11.46.14:758][494]LogAIModule: Creating AISystem for world SunTemple
+[2021.06.29-11.46.14:759][494]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2021.06.29-11.46.14:759][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SunTemple.SunTemple to /Game/Maps/UEDPIE_0_SunTemple.SunTemple (0.049425s)
+[2021.06.29-11.46.14:783][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.06.29-11.46.14:783][494]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.06.29-11.46.14:783][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.29-11.46.14:783][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.29-11.46.14:783][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.29-11.46.14:783][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.29-11.46.14:783][494]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.29-11.46.14:783][494]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.29-11.46.14:783][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.29-11.46.14:783][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.29-11.46.14:784][494]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.29-11.46.14:784][494]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.29-11.46.14:792][494]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.29-11.46.14:792][494]LogAudioMixer: Display: 1: FrontRight
+[2021.06.29-11.46.14:804][494]LogAudioMixer: Display: Using Audio Device Auriculares (XMFHZ02 Stereo)
+[2021.06.29-11.46.14:805][494]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.29-11.46.14:805][494]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.29-11.46.14:805][494]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.29-11.46.14:805][494]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.29-11.46.14:805][494]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.29-11.46.14:805][494]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.29-11.46.14:817][494]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.29-11.46.14:818][494]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.29-11.46.14:818][494]LogInit: FAudioDevice initialized.
+[2021.06.29-11.46.14:818][494]LogAudio: Display: Audio Device (ID: 8) registered with world 'SunTemple'.
+[2021.06.29-11.46.14:823][494]LogLoad: Game class is 'MyGame_C'
+[2021.06.29-11.46.14:833][494]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SunTemple.SunTemple up for play (max tick rate 0) at 2021.06.29-12.46.14
+[2021.06.29-11.46.14:834][494]LogWorld: Bringing up level for play took: 0.011039
+[2021.06.29-11.46.14:834][494]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.06.29-11.46.14:836][494]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.46.14:836][494]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.06.29-11.46.14:836][494]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.46.14:837][494]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.06.29-11.46.14:837][494]PIE: Server logged in
+[2021.06.29-11.46.14:838][494]PIE: Play in editor total start time 0.17 seconds.
+[2021.06.29-11.46.16:288][662]LogTemp: Warning: Overlap Begin
+[2021.06.29-11.46.17:380][793]LogTemp: Warning: Overlap End
+[2021.06.29-11.46.19:305][ 24]LogTemp: Warning: Overlap Begin
+[2021.06.29-11.46.20:313][145]LogTemp: Warning: Overlap End
+[2021.06.29-11.46.21:001][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.46.21:001][223]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SunTemple
+[2021.06.29-11.46.21:002][223]LogWorld: UWorld::CleanupWorld for SunTemple, bSessionEnded=true, bCleanupResources=true
+[2021.06.29-11.46.21:005][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.46.21:016][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.29-11.46.21:022][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.29-11.46.21:044][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.29-11.46.21:044][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.46.21:045][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.29-11.46.21:058][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.29-11.46.21:064][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.06.29-11.46.21:083][224]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.06.29-11.46.23:134][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameplayMechanic/FloorSwitch_BP" FILE="../../../../../../Unreal/Unreal/RPG/Content/GameplayMechanic/FloorSwitch_BP.uasset" SILENT=true
+[2021.06.29-11.46.23:144][463]LogSavePackage: Moving '../../../../../../Unreal/Unreal/RPG/Saved/FloorSwitch_BP88328EC547962E3ED5956AB77AC1022E.tmp' to '../../../../../../Unreal/Unreal/RPG/Content/GameplayMechanic/FloorSwitch_BP.uasset'
+[2021.06.29-11.46.23:155][463]AssetCheck: New page: Asset Save: FloorSwitch_BP
+[2021.06.29-11.46.23:155][463]LogContentValidation: Display: Validating Blueprint /Game/GameplayMechanic/FloorSwitch_BP.FloorSwitch_BP
+[2021.06.29-11.47.36:943][182]BlueprintLog: New page: Compile FloorSwitch_BP
+[2021.06.29-11.47.36:982][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.06.29-11.47.44:425][ 29]BlueprintLog: New page: Compile FloorSwitch_BP
+[2021.06.29-11.47.44:463][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.06.29-11.48.43:166][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.06.29-11.48.43:168][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SunTemple" FILE="../../../../../../Unreal/Unreal/RPG/Saved/Autosaves/Game/Maps/SunTemple_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.29-11.48.43:420][184]LogSavePackage: Moving '../../../../../../Unreal/Unreal/RPG/Saved/SunTemple_Auto30421D0914173AF62FB2BFDB10A11C508.tmp' to '../../../../../../Unreal/Unreal/RPG/Saved/Autosaves/Game/Maps/SunTemple_Auto3.umap'
+[2021.06.29-11.48.43:421][184]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SunTemple' took 0.282
+[2021.06.29-11.48.43:421][184]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.282
+[2021.06.29-11.48.43:421][184]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameplayMechanic/FloorSwitch_BP] ([1] browsable assets)...
+[2021.06.29-11.48.43:439][184]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameplayMechanic/FloorSwitch_BP.FloorSwitch_BP]
+[2021.06.29-11.48.43:439][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameplayMechanic/FloorSwitch_BP]
+[2021.06.29-11.48.43:450][184]LogSavePackage: Moving '../../../../../../Unreal/Unreal/RPG/Saved/FloorSwitch_BP_Auto35ED137D548105665EEC22F841B651D41.tmp' to '../../../../../../Unreal/Unreal/RPG/Saved/Autosaves/Game/GameplayMechanic/FloorSwitch_BP_Auto3.uasset'
+[2021.06.29-11.48.43:451][184]LogFileHelpers: Auto-saving content packages took 0.030
+[2021.06.29-11.50.09:904][648]LogHotReload: New module detected: UE4Editor-RPG-0016.dll
+[2021.06.29-11.50.10:917][652]LogHotReload: Starting Hot-Reload from IDE
+[2021.06.29-11.50.10:953][652]LogClass: Could not find existing class FloorSwitch in package /Script/RPG for HotReload, assuming new class
+[2021.06.29-11.50.10:953][652]LogClass: Function OnOverlapBegin is new.
+[2021.06.29-11.50.10:953][652]LogClass: Function OnOverlapEnd is new.
+[2021.06.29-11.50.10:953][652]LogClass: Function UpdateDoorLocation is new.
+[2021.06.29-11.50.10:953][652]LogClass: Function UpdateFloorSwitchLocation is new.
+[2021.06.29-11.50.10:970][652]LogHotReload: Re-instancing FloorSwitch after hot-reload.
+[2021.06.29-11.50.11:015][652]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'RPG' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2021.06.29-11.50.11:020][652]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
